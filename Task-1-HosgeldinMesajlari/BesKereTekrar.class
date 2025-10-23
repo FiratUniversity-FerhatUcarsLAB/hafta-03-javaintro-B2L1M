@@ -1,0 +1,12 @@
+public class BesKereTekrar {
+   public BesKereTekrar() {
+   }
+
+   public static void main(String[] var0) {
+      System.out.println("Java'ya Hoş Geldiniz");
+      System.out.println("Java'ya Hoş Geldiniz");
+      System.out.println("Java'ya Hoş Geldiniz");
+      System.out.println("Java'ya Hoş Geldiniz");
+      System.out.println("Java'ya Hoş Geldiniz");
+   }
+}
