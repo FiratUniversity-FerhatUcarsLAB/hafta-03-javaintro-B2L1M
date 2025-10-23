@@ -1,1 +1,2 @@
-Bu görevde, ekrana basit mesajlar ve JAVA deseni yazdırıldı.
+Bu görevde, ekrana bazı mesajlar ve JAVA deseni yazdırıldı.
+
